@@ -7,6 +7,7 @@ zombi is a simple extensible bot for Jabber.
 * A valid [Jabber](http://www.jabber.org/) account.
 * [Node.js](http://nodejs.org) >= 0.4.7
 * [node-xmpp](https://github.com/astro/node-xmpp/)
+* [node-xml2js](https://github.com/Leonidas-from-XIV/node-xml2js)
 
 # Running zombi
 
