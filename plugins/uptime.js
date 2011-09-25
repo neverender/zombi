@@ -1,5 +1,6 @@
 /**
- * node-smores plugin to calculate bot uptime.
+ * zombi plugin to calculate bot uptime.
+ * taken from node-smores
  *
  */
 function Command() {
@@ -42,7 +43,6 @@ function Command() {
     uptime = uptime.join(', ');
 
     zombi.speak(uptime, stanza)
-    //smores.speak('uptime: ' + uptime, room);
   }
 };
 
