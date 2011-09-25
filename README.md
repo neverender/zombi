@@ -36,7 +36,7 @@ The order of arguments for the callback are as such:
 * `stanza` - The stanza object as returned from XMPP.
 * `zombi` - The instance zombi object.
 
-The following is a simple plugin to respond to "/ping" calls.
+The following is a simple plugin to respond to "ping" with "pong".
 
     /**
      * zombi plugin to respond to a 'ping'.
@@ -57,5 +57,5 @@ Simple.
 
 # Mentions
 
-* A majority of the code surrounding how plugins work was borrowed from https://github.com/indiefan/nodebot
-* Tristan Dunn for node-campfire: https://github.com/tristandunn/node-campfire
+* A majority of the code surrounding how plugins work was borrowed from https://github.com/jonursenbach/node-smores which borrowed a lot from https://github.com/indiefan/nodebot
+* https://github.com/jmazzi/red was also very helpful
