@@ -1,5 +1,5 @@
 {
-  "username": "PASSWORD",
+  "username": "USERNAME",
   "password": "PASSWORD",
   "nickname": "zombi",
   "rooms": ["ROOM", "ROOM2"],
