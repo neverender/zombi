@@ -16,6 +16,8 @@ Copy `config.js-dist` over to `config.js` and edit in the appropriate values for
 * `username` is the user and domain of your account.
 * `password` is the password of the user you want to act as your bot.
 * `rooms` is an array of the rooms you want to connect to. If you want to connect to 'main' and 'non-main' it would be ['main', 'non-main']
+* `nickname` is a name you can give to your bot
+* `verbose` is if you want extra status messages
 
 Run zombi:
 
