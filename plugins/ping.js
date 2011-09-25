@@ -7,7 +7,7 @@ function Command() {
   this.regex = /ping/;
   this.description = "Respond to a ping.";
   this.callback = function(body, stanza, zombi) {
-    zombi.speak('pong', stanza);
+    zombi.say('pong', stanza);
   }
 };
 

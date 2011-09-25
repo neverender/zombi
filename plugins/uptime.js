@@ -42,7 +42,7 @@ function Command() {
 
     uptime = uptime.join(', ');
 
-    zombi.speak(uptime, stanza)
+    zombi.say(uptime, stanza)
   }
 };
 

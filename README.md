@@ -47,7 +47,7 @@ The following is a simple plugin to respond to "ping" with "pong".
       this.regex = /ping/;
       this.description = "Respond to a ping.";
       this.callback = function(body, stanza, zombi) {
-        zombi.speak('pong', stanza);
+        zombi.say('pong', stanza);
       }
     };
 
