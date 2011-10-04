@@ -37,7 +37,7 @@ The order of arguments for the callback are as such:
 
 * `body` - The regex matched message body
 * `stanza` - The stanza object as returned from XMPP.
-* `zombi` - The instance zombi object.
+* `zombi` - The instance of the zombi object.
 
 The following is a simple plugin to respond to "ping" with "pong".
 
@@ -55,8 +55,6 @@ The following is a simple plugin to respond to "ping" with "pong".
     };
 
     exports.Command = Command;
-
-Simple.
 
 # Mentions
 
