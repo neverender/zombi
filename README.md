@@ -58,5 +58,5 @@ The following is a simple plugin to respond to "ping" with "pong".
 
 # Mentions
 
-* A majority of the code surrounding how plugins work was borrowed from https://github.com/jonursenbach/node-smores which borrowed a lot from https://github.com/indiefan/nodebot
+* A majority of the code surrounding how plugins work and this readme was borrowed from https://github.com/jonursenbach/node-smores which borrowed a lot from https://github.com/indiefan/nodebot
 * https://github.com/jmazzi/red was also very helpful
