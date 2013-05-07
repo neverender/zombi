@@ -2,6 +2,8 @@
 
 zombi is a simple extensible bot for Jabber.
 
+zombi is not maintained.
+
 # Requirements
 
 * A [Jabber](http://www.jabber.org/) account.
